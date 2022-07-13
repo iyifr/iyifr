@@ -8,8 +8,8 @@
 Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on An e-commerce web app for a skincare brand 
-- 🌱 I’m currently learning to use other frameworks such as angular and Vue 
-- 👯 I’m looking to collaborate on App development projects 
+- 🌱 I’m currently learning to create back-end for web applications just for upskilling. 
+- 👯 I’m looking to collaborate on App development projects and React projects.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iyifr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iyimide-adekile-581422239/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iyifr/)  
