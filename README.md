@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Iyimide
 #### Web Development & Design
 - Front-end Developer
-- UI design 
-- I work with front-end frameworks such as React/React Native and I enjoy working on projects in the field of e-commerce and app development. I started learning to code last year and I am currently interning as a junior front-end developer and doing side projects.
+- App developer
+- I create web apps primarily using React and I enjoy working on projects in the field of e-commerce and app development. I started learning to code last year and I am currently interning as a junior developer with a startup and doing side projects.
 
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT & REACT Native / JS / HTML / CSS / NODEJS / MONGODB /
 
 - 🔭 I’m currently working on an e-commerce web app for a skincare brand 
 - 🌱 I’m currently learning to use back-end frameworks for web applications to transition to full-stack dev. 
