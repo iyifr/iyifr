@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Iyimide
 #### Web Development & Design
 - Front-end Developer
-- App developer
+- Aspiring App developer
 - I create web apps primarily using React and I enjoy working on projects in the field of e-commerce and app development. I started learning to code last year and I am currently interning as a junior developer with a startup and doing side projects.
 
 
