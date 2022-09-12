@@ -5,9 +5,9 @@
 - I create web apps primarily using React and I enjoy working on projects in the field of e-commerce and app development. I started learning to code last year and I am currently interning as a junior developer with a startup and doing side projects.
 
 
-Skills: REACT & REACT Native / JS / HTML / CSS / NODEJs
+Skills & Tech Stack: React / Tailwind Css / Nodejs / Next.js 
 
-- 🔭 I’m currently working on an e-commerce web app for a skincare brand 
+- 🔭 I’m working on an e-commerce web app for a skincare brand 
 - 🌱 I’m currently learning to use back-end frameworks for web applications to transition to full-stack dev. 
 - 👯 I’m looking to collaborate on App development projects and React projects.
 Connect with me! here are my socials:
