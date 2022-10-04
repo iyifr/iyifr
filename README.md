@@ -14,7 +14,7 @@ Connect with me! here are my socials:
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iyimide-adekile-581422239/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iyifr/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iyifr&show_icons=true)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iyifr)  
 
