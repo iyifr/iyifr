@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iyimide Adekile</h1>
+<h1 align="center">Hello, I'm Iyimide Adekile</h1>
 <h3 align="center">I'm a front-end developer from Lagos , Nigeria.</h3>
 
 - 🔭 I’m currently working on **an e-commerce website**
@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with **remote internship oppportunites**
 
-- 📫 How to reach me **adekileiyimide@gmail.com**
+- 📫 How to reach me:  **adekileiyimide@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iyimide adekile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iyimide adekile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iyimide-adekile-5814222239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iyimide-adekile-5814222239" height="30" width="40" /></a>
 <a href="https://instagram.com/iyifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iyifr" height="30" width="40" /></a>
 </p>
 
@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyifr&show_icons=true&locale=en&layout=compact" alt="iyifr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyifr&show_icons=true&locale=en" alt="iyifr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyifr&show_icons=true&theme=radical&title_color=4b4444&text_color=aa8888&locale=en" alt="iyifr" /></p>
