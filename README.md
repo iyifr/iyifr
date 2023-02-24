@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Iyimide Adekile</h1>
-<h3 align="center">I'm a front-end developer from Lagos , Nigeria.</h3>
+<h3 align="center">I'm a software developer from Lagos , Nigeria.</h3>
 
-- 🔭 I’m currently working on **an e-commerce website**
+- 🔭 I’m currently working on **a cross-platform application for a fintech**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for help with **remote internship oppportunites**
 
-- 📫 How to reach me **adekileiyimide@gmail.com**
+- 📫 You can contact me at **adekileiyimide@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
