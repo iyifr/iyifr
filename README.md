@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Iyimide Adekile</h1>
 <h3 align="center">I'm a software developer from Lagos , Nigeria.</h3>
 
-- 🔭 I’m currently working on **a cross-platform application for a fintech**
+- 🔭 I’m currently working on **a cross-platform application for a fintech startup**
 
 - 🌱 I’m currently learning **Flutter**
 
