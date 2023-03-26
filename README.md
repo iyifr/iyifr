@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Iyimide Adekile</h1>
 <h3 align="center">I'm a software developer from Lagos , Nigeria.</h3>
 
-- 🔭 I’m currently working on **a cross-platform application for a fintech startup**
+- 🔭 I’m currently working on **a cross-platform application with Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Node Js**
 
-- 🤝 I’m looking for help with **remote internship oppportunites**
+- 🤝 I’m looking to collaborate on **Node Js projects**
 
 - 📫 You can contact me at **adekileiyimide@gmail.com**
 
