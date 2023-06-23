@@ -1,5 +1,7 @@
 # 💫 About Me:
-a web-app in remix
+- Full-stack javascript developer
+- Open source enthusiast
+- Open to work
 
 
 ## 🌐 Socials:
@@ -18,4 +20,4 @@ a web-app in remix
 ---
 [![](https://visitcount.itsvg.in/api?id=iyifr&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in )
