@@ -1,7 +1,6 @@
 # 💫 About Me:
 - Full-stack javascript developer
-- Open source enthusiast
-- Open to work
+- Open source infrequent contributor😅
 
 
 ## 🌐 Socials:
