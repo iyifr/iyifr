@@ -1,6 +1,6 @@
 # 💫 About Me:
-- Full-stack javascript developer
-- Open source infrequent contributor😅
+- Frontend Engineer | Indie Maker
+- Passionate about Design Systems & Web Usability 
 
 
 ## 🌐 Socials:
