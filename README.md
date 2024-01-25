@@ -1,20 +1,21 @@
-# About Me:
-- Full-Stack Engineer 
+## About Me:
+- Full-Stack Engineer
 
-# Tech I use: 
-- Typescript
-- SQL (Sqlite / Postgres )
+### Tech I use: 
+- Typescript / Javascript
+- SQL
 - React.js
-- Node.js + Express.js
-- Bun + Hono
+- Express.js
+- Hono
 - Next.js
-- Tailwind
-- PandaCSS
+- Tailwind CSS
+- Panda CSS
+- Zag
 
-# Things I like to talk / think about : 
-- Fast paced startups
-- Solodevneurship
-- Astrophysics
+## Things I like talking about : 
+- Simple UI
+- State Machines
+- Physics
 - Frank Ocean's Discography
 
 # 📊 GitHub Stats:
