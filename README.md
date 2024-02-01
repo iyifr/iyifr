@@ -18,8 +18,8 @@
 - Astrophysics
 - Frank Ocean's Discography
 
-  I can help you build an e-commerce website / personal blog / mobile app.
-  Make enquiries - iyimide@skiff.com
+### I can help you build an e-commerce website / personal blog / mobile app.
+Make enquiries - iyimide@skiff.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iyifr&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
