@@ -1,25 +1,25 @@
 ## About Me
-- Full-Stack Engineer
+- I write code for the web with React and Vue.js
+- I build API's with Typescript
 - Chelsea Fan #Ktbffh 
 
-### Tech I use
+### Intimately familiar with...
 - Typescript / Javascript
 - SQL
-- React.js
-- Express.js
+- Supabase
 - Hono
 - Next.js
 - Tailwind CSS
-- Panda CSS
 
 ## Things I've taken interest in (truncated) 
-- Simple, terse UI
-- State Machines
+- Neat UI
+- Handling Errors in UI
+- Modeling state with State Machines
 - Astrophysics
 - Frank Ocean's Discography
 
-### I can help you build an e-commerce website / personal blog / mobile app.
-Make enquiries - iyimide@skiff.com
+### Got a web project and a budget? Reach out. 
+iyimide@skiff.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iyifr&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
