@@ -1,22 +1,21 @@
 ## About Me
-- I write code for the web with React and Vue.js
-- I build API's with Typescript
+- I write code for the web with Typescript
+- I build backends with Typescript
 - Chelsea Fan #Ktbffh 
 
 ### Intimately familiar with...
 - Typescript / Javascript
 - SQL
-- Supabase
 - Hono
 - Next.js
-- Tailwind CSS
+- TailwindCSS, PandaCSS
 
-## Things I've taken interest in (truncated) 
-- Neat UI
-- Handling Errors in UI
+## Things I've taken an interest in (tech) 
+- Design Systems
+- UI Consistency
+- Authentication & Authorization
 - Modeling state with State Machines
-- Astrophysics
-- Frank Ocean's Discography
+
 
 ### Got a web project and a budget? Reach out. 
 iyimide@skiff.com
