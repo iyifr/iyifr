@@ -1,14 +1,13 @@
 ## About Me
-- I write code for the web with Typescript
-- I build backends with Typescript
+- I code with typescript
 - Chelsea Fan #Ktbffh 
 
 ### Intimately familiar with...
-- Typescript / Javascript
-- SQL
-- Hono
+- SQLite, MySql
+- Express.js
 - Next.js
 - TailwindCSS, PandaCSS
+- Bun, hono. 
 
 ## Things I've taken an interest in (tech) 
 - Design Systems
