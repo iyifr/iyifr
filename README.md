@@ -1,8 +1,8 @@
 ## iyi
 
-### Stack
-- HTML, CSS, Javascript
-- Typescript
+### Builder...
+- I like to build stuff on the web HTML, CSS, Javascript
+- I'm comfortable with all mainstream js frameworks - React, Vue.js and Solid.js
 
 Side projects, tech explorations et al
 
