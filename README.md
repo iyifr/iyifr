@@ -1,10 +1,8 @@
-## iyi
+### Hey :)
+I may or may not be a javascript prodigy.
+If I say I love this I'm lying. 
+I do it for the money
 
-### Builder...
-- I like to build stuff on the web HTML, CSS, Javascript
-- I'm comfortable with all mainstream js frameworks - React, Vue.js and Solid.js
-
-Side projects, tech explorations et al
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iyifr&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
