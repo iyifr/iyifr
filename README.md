@@ -1,7 +1,4 @@
-### Hey :)
-I may or may not be a javascript prodigy.
-If I say I love this I'm lying. 
-I do it for the money
+ I do it for the money :)
 
 
 # 📊 GitHub Stats:
