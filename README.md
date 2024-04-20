@@ -1,12 +1,12 @@
-## Hey, I'm Iyimide
+## Hey, I'm Iyi
 I'm a programmer with a wide range of skills and interests.
-I am most skilled at web applications with typescript. 
+I am most skilled at building web apps. 
 I have successfully built apps with Vue, Svelte, and React on the client. 
-On the server, I love the typesafe experience of building API's with h3. 
+I love the typesafe experience of building APIs with h3 on the server. 
 
 ## For fun
-I play around with languages like Rust, C, and Zig to grasp fundamentals such as Networking and Database Internals. 
-I like contributing to open-source dev tools I use frequently and hope to make some interesting ones someday. 
+I play with languages like Rust, C, and Zig to build strong fundamentals such as algorithms, Networking, and low-level stuff like database Internals. 
+Also like to make open source dev-tools i use, a little better. 
 
 
 
