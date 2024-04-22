@@ -5,7 +5,7 @@ I have successfully built apps with Vue, Svelte, and React on the client.
 I love the typesafe experience of building APIs with h3 on the server. 
 
 ## For fun
-I play with languages like Rust, C, and Zig to build strong fundamentals such as algorithms, Networking, and low-level stuff like database Internals. 
+I play with languages like Rust, C, and Zig to build strong fundamentals in algorithms, networking, and low-level stuff like database internals. 
 Also like to make open source dev-tools i use, a little better. 
 
 
