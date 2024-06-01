@@ -1,9 +1,10 @@
 ## 👋 Hi, I'm Iyi! 🚀
 
-- 💻 Versatile frontend engineer with skills in Pure Javascript and a mix of helpful frameworks like Svelte, Vue, and React.
-- 🌐 Experienced in building robust and secure APIs with typesafe code
-- ⚡️ Currently exploring languages like Elixir, Gleam, and Zig to deepen understanding of algorithms, networking, and database internals.
-- 🌸 Passionate about elegant, expressive code and sleek user interfaces.
+- 💻 Versatile frontend engineer with experience building complex web apps with JavaScript and a couple of helpful frameworks including Svelte, Vue, and React.
+- 🌐 Building robust and secure APIs with typesafe code.
+- ⚡️ Currently exploring fun languages like Gleam, Dart and Zig just for the vibes.
+- 🌸 Sucker for elegant, expressive code and sleek user interfaces.
+- Creator of H4 (Dart HTTP framework)
 
 
 
