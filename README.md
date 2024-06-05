@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Iyi! 🚀
+# Hey, i'm iyi
 
 - 💻 Versatile frontend engineer with experience building complex web apps with JavaScript and a couple of helpful frameworks including Svelte, Vue, and React.
 - 🌐 Building robust and secure APIs with typesafe code.
