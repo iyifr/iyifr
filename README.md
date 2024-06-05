@@ -1,10 +1,8 @@
 # Hey, i'm iyi
 
-- 💻 Versatile frontend engineer with experience building complex web apps with JavaScript and a couple of helpful frameworks including Svelte, Vue, and React.
-- 🌐 Building robust and secure APIs with typesafe code.
-- ⚡️ Currently exploring fun languages like Gleam, Dart and Zig just for the vibes.
-- 🌸 Sucker for elegant, expressive code and sleek user interfaces.
-- Creator of H4 (Dart HTTP framework)
+- 💻 Versatile programmer
+- ⚡️ Currently exploring fun languages like Gleam, Dart, and Zig to build libraries and other cool things.
+- Rookie Open Sourceror and creator of H4 (Dart HTTP framework)
 
 
 
