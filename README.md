@@ -1,8 +1,9 @@
 # Hey, i'm iyi
 
-- 💻 Versatile programmer
-- ⚡️ Currently exploring fun languages like Gleam, Dart, and Zig to build libraries and other cool things.
-- Rookie Open Sourceror and creator of H4 (Dart HTTP framework)
+- Full-stack generalist.
+- Rookie open-sourceror building things in the dart and typescript ecosystems.
+- Working on H4 (Lightweight HTTP framework for Dart)
+- Interested in Networking Protocols and Frontend Design Systems
 
 
 
