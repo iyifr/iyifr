@@ -1,6 +1,6 @@
 # Hey, i'm iyi
 
-- Full-stack generalist.
+- Full-stack engineer.
 - Rookie open-sourceror building things in the dart and typescript ecosystems.
 - Working on H4 (Lightweight HTTP framework for Dart)
 - Interested in Networking Protocols and Frontend Design Systems
