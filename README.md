@@ -1,9 +1,10 @@
 # Hey, i'm iyi
 
-- Full-stack engineer.
-- Rookie open-sourceror building things in the dart and typescript ecosystems.
-- Working on H4 (Lightweight HTTP framework for Dart)
-- Interested in Networking Protocols and Frontend Design Systems
+- Wannabe cracked hacker. 
+- Working on H4 (Lightweight HTTP framework for Dart).
+- I like coding websites with svelte, a lot.
+- Functional programming cultist.
+- Evangelizing Svelte, Deno and Zig to all ye who hear me. 
 
 
 
