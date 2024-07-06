@@ -1,10 +1,10 @@
 # Hey, i'm iyi
 
-- Wannabe cracked hacker. 
-- Working on H4 (Lightweight HTTP framework for Dart).
-- I like coding websites with svelte, a lot.
-- Functional programming cultist.
-- Evangelizing Svelte, Deno and Zig to all ye who hear me. 
+- Wannabe hacker from 🇳🇬. 
+- Working on H4 (HTTP framework for Dart).
+- I like making websites with svelte.
+- Functional programming enthusiast.
+- Evangelizing Svelte, Deno, and Zig to all ye who hear me. 
 
 
 
