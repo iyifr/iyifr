@@ -4,9 +4,9 @@
 - To learn vanilla js, i built a web app to play frank ocean's songs.
 - To learn how file based routing, i built a bun framework from scratch.
 
-## What i'm interesting in. 
+## What i'm interested in. 
 - Magical applications of AI
 - AI infrastructure.
-- Cloud infrastructure.
+- Cloud infrastructure / devops / linux / golang.
 - Design of digital products.
 
