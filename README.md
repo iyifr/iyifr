@@ -1,8 +1,9 @@
 ## About me
 
-I'm Iyimide, a versatile software engineer.
+I'm Iyimide, a versatile software engineer most interested in elegant data systems (retrieval, organization & search) and machine learning inference.
 
-I bring to the table a rare blend of skills and experiences, coupled with a strong growth mindset. 
+## Projects
 
+Achilless-DB: A hybrid vector-document store. 
 
-To reach me, say hello - hello at iyimide.dev
+Email: hello at iyimide.dev
